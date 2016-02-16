@@ -96,6 +96,7 @@ GameObject:
   - 212: {fileID: 158970980}
   - 58: {fileID: 158970982}
   - 114: {fileID: 158970983}
+  - 114: {fileID: 158970984}
   m_Layer: 0
   m_Name: Civilian
   m_TagString: Player
@@ -189,6 +190,20 @@ MonoBehaviour:
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   delegates: []
+--- !u!114 &158970984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 158970979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7260146a76e69514b8a8b2f5419a98b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  begin: {x: -5, y: 0}
+  end: {x: 5, y: 0}
+  time_for_move: 5
 --- !u!1 &600835830
 GameObject:
   m_ObjectHideFlags: 0
