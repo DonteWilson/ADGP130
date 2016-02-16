@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: b6b869438d0e2154ab061e98120f15a6
+timeCreated: 1455654743
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_0
+    21300002: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_1
+    21300004: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_2
+    21300006: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_3
+    21300008: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_4
+    21300010: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_5
+    21300012: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_6
+    21300014: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_7
+    21300016: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_8
+    21300018: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_9
+    21300020: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_10
+    21300022: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_11
+    21300024: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_12
+    21300026: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_13
+    21300028: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_14
+    21300030: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_15
+    21300032: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_16
+    21300034: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_17
+    21300036: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_18
+    21300038: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_19
+    21300040: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_20
+    21300042: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 820
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 30.5}
+        - {x: -55, y: 10.5}
+        - {x: -55, y: -30.5}
+        - {x: 54, y: -30.5}
+        - {x: 55, y: -26.5}
+        - {x: 55, y: 30.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 820
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 20.5}
+        - {x: -42, y: 20.5}
+        - {x: -55, y: -2.5}
+        - {x: -55, y: -20.5}
+        - {x: 44, y: -20.5}
+        - {x: 55, y: -15.5}
+        - {x: 55, y: 18.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 820
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 16.5}
+        - {x: -52, y: 7.5}
+        - {x: -55, y: 0.5}
+        - {x: -55, y: -16.5}
+        - {x: 55, y: -16.5}
+        - {x: 55, y: 15.5}
+        - {x: 53, y: 16.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 816
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 804
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 19}
+        - {x: -55, y: 16}
+        - {x: -55, y: -13}
+        - {x: -8, y: -19}
+        - {x: 47, y: -19}
+        - {x: 55, y: -15}
+        - {x: 55, y: 19}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 632
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 636
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 16.5}
+        - {x: -52, y: 7.5}
+        - {x: -55, y: 0.5}
+        - {x: -55, y: -16.5}
+        - {x: 55, y: -16.5}
+        - {x: 55, y: 15.5}
+        - {x: 53, y: 16.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 636
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 20.5}
+        - {x: -42, y: 20.5}
+        - {x: -55, y: -2.5}
+        - {x: -55, y: -20.5}
+        - {x: 44, y: -20.5}
+        - {x: 55, y: -15.5}
+        - {x: 55, y: 18.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 636
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 30.5}
+        - {x: -55, y: 10.5}
+        - {x: -55, y: -30.5}
+        - {x: 54, y: -30.5}
+        - {x: 55, y: -26.5}
+        - {x: 55, y: 30.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 617
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 40}
+        - {x: -54, y: 3}
+        - {x: -54, y: -16}
+        - {x: -19, y: -40}
+        - {x: 47, y: -40}
+        - {x: 54, y: -38}
+        - {x: 54, y: 40}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 407
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 53}
+        - {x: -36.5, y: 53}
+        - {x: -51.5, y: 18}
+        - {x: -51.5, y: -16}
+        - {x: -37.5, y: -36}
+        - {x: -4.5, y: -53}
+        - {x: 23.5, y: -53}
+        - {x: 18.5, y: -31}
+        - {x: 46.5, y: 25}
+        - {x: 51.5, y: 40}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 452
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 30.5}
+        - {x: -55, y: 28.5}
+        - {x: -55, y: -30.5}
+        - {x: 55, y: -30.5}
+        - {x: 55, y: -9.5}
+        - {x: 42, y: 30.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 452
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 20.5}
+        - {x: -55, y: -20.5}
+        - {x: 55, y: -20.5}
+        - {x: 55, y: 0.5}
+        - {x: 44, y: 20.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 452
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 16.5}
+        - {x: -55, y: 10.5}
+        - {x: -55, y: -16.5}
+        - {x: 55, y: -16.5}
+        - {x: 55, y: 5.5}
+        - {x: 29, y: 16.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 448
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 19}
+        - {x: -55, y: 19}
+        - {x: -55, y: -18}
+        - {x: -53, y: -19}
+        - {x: 44, y: -19}
+        - {x: 54, y: -14}
+        - {x: 55, y: -10}
+        - {x: 55, y: 18}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 268
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 16.5}
+        - {x: -55, y: 10.5}
+        - {x: -55, y: -16.5}
+        - {x: 55, y: -16.5}
+        - {x: 55, y: 5.5}
+        - {x: 29, y: 16.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 268
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 20.5}
+        - {x: -55, y: -20.5}
+        - {x: 55, y: -20.5}
+        - {x: 55, y: 0.5}
+        - {x: 44, y: 20.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_19
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 30.5}
+        - {x: -55, y: 28.5}
+        - {x: -55, y: -30.5}
+        - {x: 55, y: -30.5}
+        - {x: 55, y: -9.5}
+        - {x: 42, y: 30.5}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 40}
+        - {x: -51, y: 35}
+        - {x: -54, y: 25}
+        - {x: -54, y: -40}
+        - {x: 29, y: -40}
+        - {x: 54, y: -18}
+        - {x: 54, y: 8}
+        - {x: 33, y: 40}
+    - name: dropr_vGyDIoziPvqfotdRQXW8fvAMkV1bF14U_r1_920x1840_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 53}
+        - {x: -51.5, y: 53}
+        - {x: -51.5, y: 40}
+        - {x: -45.5, y: 26}
+        - {x: -43.5, y: 23}
+        - {x: -25.5, y: -2}
+        - {x: -22.5, y: -53}
+        - {x: 11.5, y: -53}
+        - {x: 51.5, y: -24}
+        - {x: 51.5, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

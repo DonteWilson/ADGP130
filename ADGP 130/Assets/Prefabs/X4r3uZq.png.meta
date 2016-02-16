@@ -1,9 +1,45 @@
 fileFormatVersion: 2
 guid: 6bcedb6321d0d1349b1a151506f5fcb3
-timeCreated: 1455644710
+timeCreated: 1455652781
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: X4r3uZq_0
+    21300002: X4r3uZq_1
+    21300004: X4r3uZq_2
+    21300006: X4r3uZq_3
+    21300008: X4r3uZq_4
+    21300010: X4r3uZq_5
+    21300012: X4r3uZq_6
+    21300014: X4r3uZq_7
+    21300016: X4r3uZq_8
+    21300018: X4r3uZq_9
+    21300020: X4r3uZq_10
+    21300022: X4r3uZq_11
+    21300024: X4r3uZq_12
+    21300026: X4r3uZq_13
+    21300028: X4r3uZq_14
+    21300030: X4r3uZq_15
+    21300032: X4r3uZq_16
+    21300034: X4r3uZq_17
+    21300036: X4r3uZq_18
+    21300038: X4r3uZq_19
+    21300040: X4r3uZq_20
+    21300042: X4r3uZq_21
+    21300044: X4r3uZq_22
+    21300046: X4r3uZq_23
+    21300048: X4r3uZq_24
+    21300050: X4r3uZq_25
+    21300052: X4r3uZq_26
+    21300054: X4r3uZq_27
+    21300056: X4r3uZq_28
+    21300058: X4r3uZq_29
+    21300060: X4r3uZq_30
+    21300062: X4r3uZq_31
+    21300064: X4r3uZq_32
+    21300066: X4r3uZq_33
+    21300068: X4r3uZq_34
+    21300070: X4r3uZq_35
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,11 +62,11 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
-    aniso: -1
+    filterMode: 0
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +74,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +85,403 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: X4r3uZq_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 201
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 209
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 200
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 205
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 209
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 201
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 139
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 82
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 75
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 10
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 15
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: X4r3uZq_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     outline: []
   spritePackingTag: 
   userData: 
