@@ -17,7 +17,11 @@ public class StartGame : MonoBehaviour
             GetComponent<AudioSource>().Play();
         }
         //if retry button is pressed load scene 0 the game
+
         GUI.contentColor = Color.white;
+
+        GUI.contentColor = Color.green;
+
         if (GUI.Button(new Rect(Screen.width / 7, Screen.height / 2 - 10, 300, 100), "Start"))
         {
 #pragma warning disable CS0618 // Type or member is obsolete
