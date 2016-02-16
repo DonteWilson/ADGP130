@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-public class cursor : MonoBehaviour
+public class Cursor : MonoBehaviour
 
 
 
@@ -22,6 +22,10 @@ public class cursor : MonoBehaviour
     void Update()
     {                
         transform.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, +10));
+        if (Input.GetMouseButtonDown(0) == true)
+        {
+            GetComponent<AudioSource>().Play();
+        }
     }
 
     public void Shoot()
