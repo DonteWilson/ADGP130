@@ -8,6 +8,8 @@ public class Run : MonoBehaviour
     public Vector2 end;
     public float time_for_move;
 
+
+
     float timer;
 
     // Use this for initialization
@@ -28,6 +30,8 @@ public class Run : MonoBehaviour
 
         if (timer > 0)
         {
+            
+
             Vector2 distance = end - begin;
             float degree_of_movement = (time_for_move - timer) / time_for_move;
             transform.position = new Vector2(begin.x + (distance.x * degree_of_movement), begin.y + (distance.y * degree_of_movement));
