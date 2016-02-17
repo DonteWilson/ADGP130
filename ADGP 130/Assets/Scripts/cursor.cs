@@ -4,10 +4,12 @@ using System.Collections;
 
 public class Cursor : MonoBehaviour
 
+   
+
 
 
 {
-
+    //Run Death;
 
 
 
@@ -29,6 +31,7 @@ public class Cursor : MonoBehaviour
             GetComponent<AudioSource>().Play();
             if (hit != null && hit.collider != null)
             {
+                //gameObject.transform.position = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
                 Destroy(hit.collider.gameObject);
                 //hit.collider.GetComponent<Health>().hp -= 1;
             }
