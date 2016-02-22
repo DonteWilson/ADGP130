@@ -155,6 +155,7 @@ GameObject:
   - 58: {fileID: 158970982}
   - 114: {fileID: 158970983}
   - 114: {fileID: 158970984}
+  - 95: {fileID: 158970985}
   m_Layer: 0
   m_Name: Civilian
   m_TagString: Player
@@ -188,7 +189,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: 21300000, guid: 169434440bb179b4b9a79b218a0ed330, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1e59345d82d74504f9839503ceca887f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -200,7 +201,7 @@ Transform:
   m_GameObject: {fileID: 158970979}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.04, y: -2.08, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -214,10 +215,10 @@ CircleCollider2D:
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_Offset: {x: 0.025, y: 2.25}
+  m_UsedByEffector: 1
+  m_Offset: {x: 0, y: 0.88}
   serializedVersion: 2
-  m_Radius: 0.49583578
+  m_Radius: 0.25
 --- !u!114 &158970983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -261,7 +262,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   begin: {x: -10, y: 0}
   end: {x: 6, y: 0}
-  time_for_move: 10
+  time_for_move: 8
+--- !u!95 &158970985
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 158970979}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f97f8be4728447b4d8c219ff916ee3c9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &389102251
 GameObject:
   m_ObjectHideFlags: 0
@@ -964,7 +982,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 60e2314e0fa20ce4b8cfe986165d4fce, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.303
   m_Pitch: 1
   Loop: 0
   Mute: 0

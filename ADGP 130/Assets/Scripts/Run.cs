@@ -7,8 +7,8 @@ public class Run : MonoBehaviour
     public Vector2 begin;
     public Vector2 end;
     public float time_for_move;
-
-
+    Animator anim;
+    int stop = Animator.StringToHash("stand");
 
     float timer;
 
@@ -18,7 +18,7 @@ public class Run : MonoBehaviour
 
         transform.position = begin;
         timer = time_for_move;
-
+        anim = GetComponent<Animator>();
 
     }
 
@@ -36,6 +36,9 @@ public class Run : MonoBehaviour
             float degree_of_movement = (time_for_move - timer) / time_for_move;
             transform.position = new Vector2(begin.x + (distance.x * degree_of_movement), begin.y + (distance.y * degree_of_movement));
         }
-
+        if (time_for_move == 0)
+        {
+            anim.SetTrigger(stop);
+        }
     }
 }
