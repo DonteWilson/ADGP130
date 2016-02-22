@@ -32,7 +32,8 @@ public class Cursor : MonoBehaviour
             if (hit != null && hit.collider != null)
             {
                 //gameObject.transform.position = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
-                Destroy(hit.collider.gameObject);
+                hit.collider.gameObject.GetComponent<Animator>().SetBool("IsDead", true);
+                //hit.collider.gameObject.transform.position = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
                 //hit.collider.GetComponent<Health>().hp -= 1;
             }
 
