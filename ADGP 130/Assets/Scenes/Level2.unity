@@ -249,7 +249,6 @@ GameObject:
   - 212: {fileID: 1330040126}
   - 95: {fileID: 1330040125}
   - 114: {fileID: 1330040128}
-  - 58: {fileID: 1330040129}
   m_Layer: 0
   m_Name: Birdy
   m_TagString: Untagged
@@ -330,20 +329,6 @@ MonoBehaviour:
   begin: {x: -8.38, y: 3.7}
   end: {x: 15, y: 3.7}
   time_for_move: 15
---- !u!58 &1330040129
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1330040124}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.55
 --- !u!1 &1392507651
 GameObject:
   m_ObjectHideFlags: 0
