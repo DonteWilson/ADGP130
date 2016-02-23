@@ -30,6 +30,7 @@ public class Run : MonoBehaviour
         if (time_for_move <= 1)
         {
             gameObject.GetComponent<Animator>().SetBool("IsWalking", false);
+            gameObject.GetComponent<Animator>().enabled = false;
 
         }
 
