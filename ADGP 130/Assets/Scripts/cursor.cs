@@ -20,6 +20,8 @@ public class Cursor : MonoBehaviour
             {
                 //gameObject.transform.position = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
                 hit.collider.gameObject.GetComponent<Animator>().SetBool("IsDead", true);
+                hit.collider.gameObject.GetComponent<Run>().enabled = false;
+               
                 //hit.collider.gameObject.transform.position = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y);
                 //hit.collider.GetComponent<Health>().hp -= 1;
             }

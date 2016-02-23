@@ -25,11 +25,13 @@ public class Run : MonoBehaviour
             Vector2 distance = end - begin;
             float degree_of_movement = (time_for_move - timer) / time_for_move;
             transform.position = new Vector2(begin.x + (distance.x * degree_of_movement), begin.y + (distance.y * degree_of_movement));
+    
         }
         if (time_for_move <= 1)
         {
             gameObject.GetComponent<Animator>().SetBool("IsWalking", false);
 
         }
+
     }
 }
