@@ -156,6 +156,7 @@ GameObject:
   - 114: {fileID: 158970983}
   - 114: {fileID: 158970984}
   - 95: {fileID: 158970985}
+  - 114: {fileID: 158970986}
   m_Layer: 0
   m_Name: Civilian
   m_TagString: Player
@@ -280,6 +281,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &158970986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 158970979}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5242cd3bc7537cc4094b48c3d58cef22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &389102251
 GameObject:
   m_ObjectHideFlags: 0
