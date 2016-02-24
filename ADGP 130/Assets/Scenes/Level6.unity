@@ -900,7 +900,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 152592, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
       propertyPath: m_Name
-      value: Enemy4
+      value: Enemy1
       objectReference: {fileID: 0}
     - target: {fileID: 21271224, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
       propertyPath: m_SortingOrder
@@ -931,7 +931,7 @@ GameObject:
   - 4: {fileID: 1201671763}
   - 212: {fileID: 1201671762}
   m_Layer: 0
-  m_Name: 145630102522132
+  m_Name: ArmyBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1064,7 +1064,7 @@ RectTransform:
   m_Children:
   - {fileID: 214994198}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
