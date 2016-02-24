@@ -134,6 +134,14 @@ Prefab:
       propertyPath: m_SortingOrder
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 11475092, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 723954035}
+    - target: {fileID: 11475092, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Shoot
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
   m_IsPrefabParent: 0
@@ -334,6 +342,21 @@ MonoBehaviour:
   m_EventMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!1 &1500516590 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 152592, guid: 895a0f4bb5edaa647b1e3ba16db8b112, type: 2}
+  m_PrefabInternal: {fileID: 1020923561}
+--- !u!114 &1500516597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1500516590}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5242cd3bc7537cc4094b48c3d58cef22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2110896551
 GameObject:
   m_ObjectHideFlags: 0
