@@ -5,8 +5,9 @@ public class MCMF : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
-	}
+        GetComponent<AudioSource>().Play();
+
+    }
     void OnGUI()
         {
             if (Input.GetMouseButtonDown(0) == true)
@@ -23,7 +24,7 @@ public class MCMF : MonoBehaviour {
 #pragma warning restore CS0618 // Type or member is obsolete
         }
             //and quit button
-            else if (GUI.Button(new Rect(Screen.width / 7, Screen.height / 2 + 110, 100, 50), "Try Again"))
+            else if (GUI.Button(new Rect(Screen.width / 7, Screen.height / 2 + 110, 100, 50), "Retry level?"))
             {
             Application.LoadLevel(Application.loadedLevel);
             }
